@@ -1,7 +1,21 @@
-/* Cor de fundo */
-background-color: #f0f0f0; /* Cor cinza claro */
-background-color: rgb(255, 255, 255); /* Cor branca (RGB) */
-background-color: rgba(0, 0, 0, 0.5); /* Cor preta com transparência 50% (RGBA) */
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Fundo Verde</title>
+    <style>
+        body {
+            background-color: green;
+            color: white;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
 
-/* Imagem de fundo */
-background-image: url("path/to/your/image.jpg")
+    <h1>Fundo Verde</h1>
+    <p>Este site tem o fundo verde, usando CSS!</p>
+
+</body>
+</html>
